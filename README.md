@@ -114,7 +114,10 @@ The application will open automatically in your browser.
 ## 📸 Demo
 
 ```
-chatbot_demo.png
+<p align="center">
+  <img src="readme_images\chatbot_demo.png" alt="Description" width="500">
+</p>
+
 ```
 
 ---
