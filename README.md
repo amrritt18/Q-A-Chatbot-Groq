@@ -113,7 +113,6 @@ The application will open automatically in your browser.
 
 ## 📸 Demo
 
-📸 Demo
 
 ![Description](readme_images/chatbot_demo.png)
 
